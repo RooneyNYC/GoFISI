@@ -67,9 +67,9 @@
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a href="Startseite" class="active">Startseite</a></li>
-            <li><a href="about">Über mich</a></li>
-            <li><a href="contact">Kontakt</a></li>
+            <li><a href="index2.php" class="active">Startseite</a></li>
+            <li><a href="./about.php" class="active">Über mich</a></li>
+            <li><a href="./contact.php" class="active">Kontakt</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
@@ -79,4 +79,4 @@
 
   </header>
 
-  <main class="main">
+  <main>

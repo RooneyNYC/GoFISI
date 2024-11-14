@@ -27,7 +27,6 @@
           <ul>
             <li><a href="#">Startseite</a></li>
             <li><a href="#">Über mich</a></li>
-            <li><a href="#">Services</a></li>
           </ul>
         </div>
 
@@ -37,7 +36,7 @@
           <h4>Unser Newsletter</h4>
           <p>Tragen Sie Ihre E-Mail Adresse ein, um über die neusten News informiert zu werden</p>
           <form action="forms/newsletter.php" method="post" class="php-email-form">
-            <div class="newsletter-form"><input type="email" name="email"><input type="submit" value="Subscribe"></div>
+            <div class="newsletter-form"><input type="email" name="email"><input type="submit" value="Absenden"></div>
             <div class="loading">Laden</div>
             <div class="error-message"></div>
             <div class="sent-message">Ihre Anfrage wurde versendet. Vielen Dank!</div>
