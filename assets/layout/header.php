@@ -49,6 +49,9 @@
         <div class="social-links d-none d-md-flex align-items-center">
          
           <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+          <a href="#" class="facebook"><i class="bi bi-discord"></i></a>
+          <a href="#" class="facebook"><i class="bi bi-youtube"></i></a>
+          
           </div>
       </div>
     </div><!-- End Top Bar -->
@@ -64,9 +67,9 @@
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a href="#hero" class="active">Startseite</a></li>
-            <li><a href="#about">Über mich</a></li>
-            <li><a href="#contact">Kontakt</a></li>
+            <li><a href="Startseite" class="active">Startseite</a></li>
+            <li><a href="about">Über mich</a></li>
+            <li><a href="contact">Kontakt</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
