@@ -21,16 +21,15 @@
     </div>
 
     <div class="col-lg-6 order-2 order-lg-1 content" data-aos="fade-up" data-aos-delay="200">
-      <h3>Voluptatem dignissimos provident quasi corporis</h3>
+      <h3>Nicht wahrheitsgemäßer Werdegang</h3>
       <p class="fst-italic"><br>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-        magna aliqua.
+        In diesem Bereich stehen die wichtigsten persönlichen Ereignisse
       </p>
       <ul>
         <br>
-        <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li><br>
-        <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li><br>
-        <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li><br>
+        <li><i class="bi bi-check-circle"></i> <span>Geboren</span></li><br>
+        <li><i class="bi bi-check-circle"></i> <span>Gelebt / Gelitten</span></li><br>
+        <li><i class="bi bi-check-circle"></i> <span>Gestorben</span></li><br>
       </ul>
     </div>
 
