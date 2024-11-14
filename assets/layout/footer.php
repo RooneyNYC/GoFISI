@@ -8,9 +8,9 @@
           <div class="footer-about">
             <a href="index.html" class="logo sitename">Homepage</a>
             <div class="footer-contact pt-3">
-              <p>Altensenner Weg 53</p>
-              <p>D-32052 Herford</p>
-              <p class="mt-3"><strong>Telefon:</strong> <span>+49 190 666 666</span></p>
+              <p>Strobelallee 50</p>
+              <p>D-44139 Dortmund</p>
+              <p class="mt-3"><strong>Telefon:</strong> <span>+49 231 - 90 20 0</span></p>
               <p><strong>Email:</strong> <span>Daniel@Gerking.de</span></p>
             </div>
             <div class="social-links d-flex mt-4">
@@ -58,3 +58,24 @@
     </div>
 
   </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+</html>

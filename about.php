@@ -4,6 +4,8 @@
 <section id="about" class="about section">
 
 <!-- Section Title -->
+ <br>
+ <br>
 <div class="container section-title" data-aos="fade-up">
   <span>Über mich<br></span>
   <h2>Über mich<br></h2>
