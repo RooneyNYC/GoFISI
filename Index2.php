@@ -10,7 +10,7 @@
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <div class="row justify-content-start">
           <div class="col-lg-8">
-            <h2>Willkommen auf meiner Seite</h2>
+            <h2><p>Willkommen auf meiner Seite</p></h2>
           </div>
         </div>
       </div>
